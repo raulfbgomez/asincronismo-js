@@ -1,0 +1,11 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "curso de asincronismo de JavaScript en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callbacks/index.js"
+  },
+  "author": "@raulfbgomez",
+  "license": "MIT"
+}
