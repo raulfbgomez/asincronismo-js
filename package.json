@@ -2,7 +2,7 @@
   "name": "asincronismo",
   "version": "1.0.0",
   "description": "curso de asincronismo de JavaScript en Platzi",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "callback": "node src/callbacks/index.js",
     "callback:challenge": "node src/callbacks/challenge.js",
@@ -10,5 +10,8 @@
     "promise:challenge": "node src/promise/challenge.js"
   },
   "author": "@raulfbgomez",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
